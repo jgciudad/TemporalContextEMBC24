@@ -19,7 +19,7 @@ The code is stored in a different repository for each model.
 ### Grieger et al. 2021
 
 * Original implementation: https://github.com/dslaborg/sleep-mice-tuebingen
-* Modified implementation: https://github.com/jgciudad/l-seqsleepnet
+* Modified implementation: https://github.com/jgciudad/sleep-mice-tuebingen
 
 ### SPINDLE
 
